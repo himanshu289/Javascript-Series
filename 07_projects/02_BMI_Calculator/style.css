@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+
+.data{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.inputClass{
+    height: 20px;
+    width: 130px;
+}
+
+.calculate{
+    height: 25px;
+    width: 80px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.box{
+    border: 1px solid black;
+    border-radius: 8px;
+    /* width: auto;  */
+}

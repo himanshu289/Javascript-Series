@@ -1,0 +1,13 @@
+#clock{
+    border-radius: 8px;
+    background-color: grey;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+} 
+
+.class{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

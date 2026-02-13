@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+
+span{
+    display: block;
+}
+
+.button{
+    border: 2px solid black;
+    border-radius: 8px;
+    height: 80px;
+    width: 80px;
+}
+
+.allButtons{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
+#orange{
+    background-color: orange;
+}
+#violet{
+    background-color: violet;
+}
+#red{
+    background-color: red;
+}
